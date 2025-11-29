@@ -4,8 +4,6 @@
 
 - 👯 I’m looking to collaborate on **Mern Stack Projects**
 
-- 👨‍💻I'm currently working on with CyHex
-
 - 📫 How to reach me **shrivedkakde00@gmail.com**
 
 -  🌱I'm currently exploring  new stacks
