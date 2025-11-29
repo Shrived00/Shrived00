@@ -9,7 +9,6 @@
 -  🌱I'm currently exploring  new stacks
 
 
-I'm currently working on with CyHex<br>I'm looking to collaborate on MERN stack Projects<br>I'm currently exploring  new stacks
 
 
 ## 🌐 Socials:
